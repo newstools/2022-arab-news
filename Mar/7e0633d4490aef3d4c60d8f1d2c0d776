@@ -1,0 +1,23 @@
+WASHINGTON: From a huge Russian military convoy snaking its way to Kyiv to missile strikes and refugee crossings, commercial satellite imagery of the Ukraine conflict is helping lift the fog of war, illuminating for the public what was previously the domain of spy agencies.
+Technologies that can pierce cloud cover and work at night are also coming to the fore, as a growing army of open-source intelligence analysts offer near real time assessments of battleground developments.
+“Governments are no longer the only place to go for high precision satellite data,” Craig Nazareth, a former US intelligence officer turned scholar at the University of Arizona, told AFP.
+Thanks to the explosive growth of the private satellite industry, the volume of imagery is greater and turnaround time faster compared to prior conflicts, such as Russia’s 2014 annexation of Crimea.
+While most Western governments have their own sophisticated satellite assets, their classified nature means the images can’t be shared.
+And with public trust in the US and British governments shaken after the 2003 Iraq war, third-party imagery has helped plug credibility gaps.
+“They’re saying ‘Look, it’s not us, this is actually happening, we’re not making this up,” Nazareth said.
+Beyond helping shape narratives, the images are directly aiding Ukrainian forces in their war efforts.
+“Capella Space is working directly with the US and Ukrainian governments as well as other commercial entities to provide timely data and assistance around the ongoing conflict,” Payam Banazadeh, the company’s CEO confirmed in a statement to AFP. It was images taken by the San Francisco startup that led a group of independent researchers to realize the invasion was underway, before Vladimir Putin announced his “special military operations” in the early morning of February 24.
+Hours before that speech, Jeffrey Lewis of the Middlebury Institute in California tweeted that Google Maps showed a “traffic jam” on the road from Belgorod, Russia to the Ukrainian border.
+It was the precise spot Capella Space previously saw a convoy of military vehicles, and the congestion likely reflected Russian civilians getting stuck at roadblocks while military vehicles passed.
+“Someone’s on the move,” he correctly hypothesized.
+While most satellite imaging requires daylight and clear skies to capture images, Capella Space works with synthetic aperture radar (SAR) — in which sensors shoot down energy, then record the amount that reflects back to them.
+SAR “penetrates clouds and smoke, even in very large storm events or fires, so we can reliably capture clear and precise images of the Earth under almost any conditions,” said Dan Getman, the company’s vice president of product.
+Another company whose pictures have been used heavily by news media is BlackSky, which released what it believes was among the first engagements of the war — an attack on the Luhansk Thermal Power Station a little after 4:00 p.m. local time on February 23.
+“We have a constellation of small satellites that can see dawn to dusk, not just at certain times of the day” the company’s CEO Brian O’Toole told AFP.
+In traditional polar orbits, which fly north-south, a satellite could take only two snaps of a particular spot per day — but BlackSky flies its hardware counter-clockwise to the planet’s rotation, allowing them to revisit areas more often.
+Clients receive the images within 90 minutes, and are helped in interpreting them by AI-enabled software. Perhaps the most grabbing image of the conflict so far has been a picture of the 40 mile (64 km) long Russian convoy, captured by Maxar, “the granddaddy of the industry,” according to Chris Quilty, of Quilty Analytics.
+He explained that unlike traditional satellites that only point downwards, Maxar’s satellites have gyroscopes that allow them to swivel and target with more precision.
+The US government, through the National Reconnaissance Office, is one of Maxar’s main clients, dictating “shutter time,” which helps explain why the company and others are spending so much time over Ukraine right now.
+But the selective release of what the satellites are seeing could eventually lead to ethical concerns.
+Maxar and others “are inevitably capturing imagery of Ukrainian troop movements and defensive positions and that information is not being released to the public,” said Quilty.
+Looking ahead to future conflicts, “There is absolutely an ability to color the narrative depending upon what imagery is made available,” he said.
